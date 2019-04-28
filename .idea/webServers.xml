@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f468a538-07c4-4f57-8877-1180828fd28d" name="weiwei" url="http://39.107.119.88/">
+        <fileTransfer host="39.107.119.88" port="22" rootFolder="/data/wwwroot/default/weiwei" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
